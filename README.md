@@ -51,4 +51,3 @@ These starting sources do not establish that the proposed research gap is novel.
 
 Planned activities, hypothetical inputs, and observed results will be labelled separately. Future analyses will retain assumptions, provenance, code versions, and limitations, including null or unfavourable findings. No copyrighted papers are redistributed. Source links support access through legitimate channels. No third-party endorsement or completed empirical validation is claimed.
 
-**Last documentation update:** 16 November 2026.
